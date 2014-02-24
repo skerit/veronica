@@ -1,0 +1,16 @@
+{
+	"name": "veronica",
+	"description": "Library for manipulating images",
+	"version": "0.0.1",
+	"author": "Jelle De Loecker <jelle@codedor.be>",
+	"keywords": ["image", "resize", "graphics", "convert"],
+	"main": "./lib/veronica.js",
+	"repository": "git@github.com:codedor/veronica.git",
+	"dependencies": {
+		"gm": "1.14.2"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=0.10"
+	}
+}
