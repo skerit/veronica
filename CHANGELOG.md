@@ -1,3 +1,8 @@
+## 0.1.1 (2015-03-05)
+
+* Upgrade gm dependency to v1.17.0
+* Use github source for `canvas` dependency so it can compile on iojs
+
 ## 0.1.0 (2014-05-07)
 
 * Add placeholder method, to generate placeholder images (requires canvas)

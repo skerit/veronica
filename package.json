@@ -1,17 +1,22 @@
 {
 	"name": "veronica",
 	"description": "Library for manipulating images",
-	"version": "0.1.0",
-	"author": "Jelle De Loecker <jelle@codedor.be>",
+	"version": "0.1.1",
+	"author": "Jelle De Loecker <jelle@kipdola.be>",
 	"keywords": ["image", "resize", "graphics", "convert"],
 	"main": "./lib/veronica.js",
-	"repository": "git@github.com:codedor/veronica.git",
+	"repository": "git@github.com:skerit/veronica.git",
 	"dependencies": {
-		"gm": "1.14.2",
-		"canvas": "1.1.3"
+		"gm": "1.17.0",
+		"canvas": "Automattic/node-canvas#1c1d93e"
 	},
 	"license": "MIT",
 	"engines": {
-		"node": ">=0.10"
-	}
+		"node": ">=0.10",
+		"iojs": ">=1.0"
+	},
+	"bugs": {
+		"url": "https://github.com/skerit/veronica/issues"
+	},
+	"homepage": "https://github.com/skerit/veronica"
 }
