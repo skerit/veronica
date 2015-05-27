@@ -1,3 +1,7 @@
+## 0.1.2 (WIP)
+
+* Use `canvas` ~1.2.3 for iojs 2.1.x support
+
 ## 0.1.1 (2015-03-05)
 
 * Upgrade gm dependency to v1.17.0

@@ -8,7 +8,7 @@
 	"repository": "git@github.com:skerit/veronica.git",
 	"dependencies": {
 		"gm": "1.17.0",
-		"canvas": "Automattic/node-canvas#1c1d93e"
+		"canvas": "~1.2.3"
 	},
 	"license": "MIT",
 	"engines": {
