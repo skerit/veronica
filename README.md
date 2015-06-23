@@ -7,7 +7,7 @@ allowing you to add webp support using cwebp.
 
 You'll need to install these packages on your system:
 
-    sudo apt-get install graphicsmagick webp
+    sudo apt-get install graphicsmagick webp libgif-dev
 
 ## Basic Usage
 
@@ -41,7 +41,7 @@ Make sure libgif-div is installed (needed for gif support), automake and libtool
 It'll install a few other packages, too, required for compiling
 
 ```bash
-apt-get install libgif-dev automake libtool
+apt-get install automake libtool
 ```
 
 Then clone the git repository
