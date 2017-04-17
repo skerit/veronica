@@ -1,4 +1,4 @@
-## 0.1.2 (WIP)
+## 0.1.2 (2017-04-17)
 
 * Update `canvas` and `gm` packages
 * Require `libgif-dev` package

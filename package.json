@@ -7,13 +7,12 @@
 	"main": "./lib/veronica.js",
 	"repository": "git@github.com:skerit/veronica.git",
 	"dependencies": {
-		"gm": "~1.21.1",
-		"canvas": "~1.3.12"
+		"gm": "~1.23.0",
+		"canvas": "~1.6.5"
 	},
 	"license": "MIT",
 	"engines": {
-		"node": ">=0.10",
-		"iojs": ">=1.0"
+		"node": ">=0.10"
 	},
 	"bugs": {
 		"url": "https://github.com/skerit/veronica/issues"
