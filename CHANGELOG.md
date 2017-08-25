@@ -1,3 +1,7 @@
+## 0.1.3 (WIP)
+
+* The `resize` method will no longer enlargen images
+
 ## 0.1.2 (2017-04-17)
 
 * Update `canvas` and `gm` packages
