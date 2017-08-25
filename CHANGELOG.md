@@ -1,6 +1,7 @@
 ## 0.1.3 (WIP)
 
 * The `resize` method will no longer enlargen images
+* Cache files will now contain width & height in filename
 
 ## 0.1.2 (2017-04-17)
 
