@@ -1,4 +1,8 @@
-## 0.1.4 (WIP)
+## 0.2.0 (WIP)
+
+* Added Protoblast dependency
+* Check cwebp path before using
+* Add smartcropping
 
 ## 0.1.3 (2017-08-27)
 

@@ -17,7 +17,7 @@ var Veronica = require('veronica'),
     resizeOptions = {
     	width: 400,
     	height: 400,
-    	gravity: 'Center',
+    	gravity: 'Center', // Leave this empty or set to 'smartcrop' to use smartcrop
     	quality: 80,
     	type: 'webp'
     };

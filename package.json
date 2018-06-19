@@ -4,11 +4,15 @@
 	"version": "0.1.4-alpha",
 	"author": "Jelle De Loecker <jelle@develry.be>",
 	"keywords": ["image", "resize", "graphics", "convert"],
-	"main": "./lib/veronica.js",
+	"main": "./lib/init.js",
 	"repository": "git@github.com:skerit/veronica.git",
 	"dependencies": {
-		"gm": "~1.23.0",
-		"canvas": "~1.6.6"
+		"canvas"     : "~1.6.11",
+		"gm"         : "~1.23.1",
+		"protoblast" : "~0.5.5"
+	},
+	"optionalDependencies": {
+		"smartcrop" : "~2.0.3"
 	},
 	"license": "MIT",
 	"engines": {
