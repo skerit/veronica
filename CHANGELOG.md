@@ -1,4 +1,4 @@
-## 0.2.0 (WIP)
+## 0.2.0 (2018-06-20)
 
 * Added Protoblast dependency
 * Check cwebp path before using
