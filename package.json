@@ -9,7 +9,7 @@
 	"dependencies": {
 		"canvas"     : "~1.6.11",
 		"gm"         : "~1.23.1",
-		"protoblast" : "~0.5.5"
+		"protoblast" : "~0.5.6"
 	},
 	"optionalDependencies": {
 		"smartcrop" : "~2.0.3"
