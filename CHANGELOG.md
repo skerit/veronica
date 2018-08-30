@@ -1,3 +1,7 @@
+## 0.2.1 (WIP)
+
+* Files are auto oriented when resized by default
+
 ## 0.2.0 (2018-06-20)
 
 * Added Protoblast dependency
