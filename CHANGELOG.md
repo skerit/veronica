@@ -1,6 +1,7 @@
-## 0.2.1 (WIP)
+## 0.2.1 (2018-12-06)
 
 * Files are auto oriented when resized by default
+* Upgrade `canvas` to v2.2.0
 
 ## 0.2.0 (2018-06-20)
 
