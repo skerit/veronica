@@ -1,3 +1,5 @@
+## 0.2.2 (WIP)
+
 ## 0.2.1 (2018-12-06)
 
 * Files are auto oriented when resized by default
