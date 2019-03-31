@@ -1,5 +1,7 @@
 ## 0.2.2 (WIP)
 
+* Upgrade `canvas` to v2.4.1
+
 ## 0.2.1 (2018-12-06)
 
 * Files are auto oriented when resized by default
