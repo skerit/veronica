@@ -1,6 +1,7 @@
 ## 0.2.2 (WIP)
 
 * Upgrade `canvas` to v2.4.1
+* Use `-near_lossless` option when converting png to webp
 
 ## 0.2.1 (2018-12-06)
 
