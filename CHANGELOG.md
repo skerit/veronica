@@ -2,6 +2,7 @@
 
 * Upgrade `canvas` to v2.4.1
 * Use `-near_lossless` option when converting png to webp
+* Apply explicit `quality` setting to webp's too
 
 ## 0.2.1 (2018-12-06)
 
