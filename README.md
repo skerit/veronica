@@ -7,7 +7,7 @@ allowing you to add webp support using cwebp.
 
 You'll need to install these packages on your system:
 
-    sudo apt-get install graphicsmagick webp libgif-dev
+    sudo apt-get install graphicsmagick webp libgif-dev libcairo2-dev libpixman-1-dev
 
 ## Basic Usage
 
